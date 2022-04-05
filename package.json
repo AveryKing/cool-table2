@@ -1,20 +1,11 @@
 {
-  "name": "ts-react-library-template",
+  "name": "Cool Table",
   "version": "0.0.0",
-  "description": "React Library Template with TypeScript",
+  "description": "",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ranajahanzaib/ts-react-library-template.git"
-  },
-  "author": "Rana Jahanzaib (https://ranajahanzaib.com)",
-  "bugs": {
-    "url": "https://github.com/ranajahanzaib/ts-react-library-template/issues"
-  },
-  "homepage": "https://github.com/ranajahanzaib/ts-react-library-template#readme",
-  "license": "MIT",
+  "author": "Avery King",
   "private": false,
   "keywords": [
     "react",
