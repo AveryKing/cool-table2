@@ -5,12 +5,6 @@
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
-  "files": [
-    "lib/**/*",
-    "LICENSE",
-    "AUTHORS",
-    "CHANGELOG.md"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ranajahanzaib/ts-react-library-template.git"
